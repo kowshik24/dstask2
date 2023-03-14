@@ -6,3 +6,6 @@
 3. Another advantage of "en_core_web_sm" is that it has been trained on a large amount of data, which makes it more robust and accurate than models trained on smaller datasets.
 
 4. Overall, "en_core_web_sm" is a good choice for many NLP tasks because of its speed, accuracy, and robustness.
+
+# PostMan
+1. I have use PostMan for both of the task for testing purpose
